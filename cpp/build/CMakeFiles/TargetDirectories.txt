@@ -1,2 +1,0 @@
-/home/development_python/cpp/build/CMakeFiles/edit_cache.dir
-/home/development_python/cpp/build/CMakeFiles/rebuild_cache.dir
